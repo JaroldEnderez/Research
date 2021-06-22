@@ -33,7 +33,7 @@ Admins can:
 
 Voting ballot will be created on html
 
-I'm not an experienced programmer yet so this is all I can give
+not an experienced programmer yet
 
 Snapshots:
 ![image](https://user-images.githubusercontent.com/85578450/122860392-35e55b00-d350-11eb-9360-24d8d58ab542.png)
