@@ -23,12 +23,12 @@ MySql
 IDE: Eclipse EE
 
 Voters can:
-          create account and cast votes
-          Student ID shall be uploaded to verify student
+          create account and cast votes,
+          Student ID shall be uploaded to verify student (im working on it),
           Can only vote once
 
 Admins can:
-          see results
+          see results,
           manage voters
 
 Voting ballot will be created on html
