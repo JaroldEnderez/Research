@@ -1,4 +1,13 @@
 # Research
+
+
+
+
+DRAFT
+
+
+
+
 Front-end:
 JSP (I know, SUPER outdated)
 HTML CSS
